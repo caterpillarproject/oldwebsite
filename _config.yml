@@ -1,6 +1,6 @@
 name: The Caterpillar Project
-description: Astrophysicist.
+description: Home of the Caterpillar Collaboration.
 url: http://caterpillarproject.org
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
 permalink: /blog/:title
