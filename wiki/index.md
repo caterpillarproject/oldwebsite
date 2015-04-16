@@ -1,0 +1,4 @@
+---
+layout: static
+title: Wiki
+---

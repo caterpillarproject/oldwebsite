@@ -1,0 +1,6 @@
+name: The Caterpillar Project
+description: Astrophysicist.
+url: http://caterpillarproject.org
+markdown: redcarpet
+highlighter: true
+permalink: /blog/:title
