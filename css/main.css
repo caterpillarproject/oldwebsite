@@ -183,7 +183,7 @@ sup {
   font-size: 16px;
   padding-bottom: 50px; }
   .content h1 {
-    color: white;
+    color: hhsla(360, 100%, 53%, 1);
     margin-bottom: 0;
     font-size: 40px;
     font-family: "Roboto Condensed", "Helvetica Neue", "Arial", sans-serif;
@@ -229,7 +229,7 @@ sup {
   .post h2,
   .post h3,
   .post h4 {
-    color: white;
+    color: hhsla(360, 100%, 53%, 1);
     font-weight: bold;
     font-family: "Roboto Condensed", "Helvetica Neue", "Arial", sans-serif;
     text-align: left; }
