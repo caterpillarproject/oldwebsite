@@ -123,11 +123,11 @@ sup { font-size: 80%; line-height: 100%; }
   padding: 2em 0;
   text-align: left;
   // border-bottom: 2px solid #eee;
-  // background-image: $masthead-background;
+  background-image: $masthead-background;
   // background-position: center;
   // background-size: cover;
   // background-repeat: no-repeat;
-  background-color: $masthead-background-color;
+  // background-color: $masthead-background-color;
   // background-color: gradient($masthead-background-color, darken($masthead-background-color,20%));
   border-bottom: 1px solid darken($masthead-background-color,20%);
 
