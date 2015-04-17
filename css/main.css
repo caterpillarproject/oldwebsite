@@ -65,7 +65,7 @@ sup {
         color: #3b7fc4;
         font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial"; }
         .post-list-table .row .cell.menuarticle a:hover {
-          color: #17191c; }
+          color: white; }
 
 /*****************************************************************************/
 /*
@@ -101,7 +101,7 @@ sup {
       font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial";
       font-weight: 600;
       letter-spacing: -0.3px;
-      color: #17191c;
+      color: white;
       text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8); }
     .masthead .rootlink .mydescription {
       display: inline-block;
@@ -110,9 +110,9 @@ sup {
       font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial";
       font-weight: 100;
       letter-spacing: -0.3px;
-      color: #29333d; }
+      color: white; }
     .masthead .rootlink:hover .myname {
-      color: #2e3338; }
+      color: white; }
   .masthead .subtitle {
     font-size: 22.4px;
     margin: 0;
@@ -159,7 +159,7 @@ sup {
     line-height: 200%;
     text-align: left; }
     .masthead .main-menu li:hover {
-      color: #17191c; }
+      color: white; }
     .masthead .main-menu a {
       color: #36404a; }
       .masthead .main-menu a li {
@@ -183,7 +183,7 @@ sup {
   font-size: 16px;
   padding-bottom: 50px; }
   .content h1 {
-    color: #29333d;
+    color: white;
     margin-bottom: 0;
     font-size: 40px;
     font-family: "Roboto Condensed", "Helvetica Neue", "Arial", sans-serif;
@@ -229,7 +229,7 @@ sup {
   .post h2,
   .post h3,
   .post h4 {
-    color: #29333d;
+    color: white;
     font-weight: bold;
     font-family: "Roboto Condensed", "Helvetica Neue", "Arial", sans-serif;
     text-align: left; }
