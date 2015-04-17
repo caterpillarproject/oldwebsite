@@ -1,5 +1,5 @@
 ---
-layout: static
+layout: landing
 title: What is the Caterpillar Project?
 ---
 
