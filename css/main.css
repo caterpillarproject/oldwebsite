@@ -110,7 +110,7 @@ sup {
       font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial";
       font-weight: 100;
       letter-spacing: -0.3px;
-      color: white; }
+      color: #ff0f0f; }
     .masthead .rootlink:hover .myname {
       color: #ff4242; }
   .masthead .subtitle {
@@ -159,9 +159,9 @@ sup {
     line-height: 200%;
     text-align: left; }
     .masthead .main-menu li:hover {
-      color: #ff0f0f; }
-    .masthead .main-menu a {
       color: white; }
+    .masthead .main-menu a {
+      color: #ff0f0f; }
       .masthead .main-menu a li {
         padding: 0;
         margin-right: 30px;
