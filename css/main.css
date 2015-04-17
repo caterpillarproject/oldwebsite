@@ -65,7 +65,7 @@ sup {
         color: #3b7fc4;
         font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial"; }
         .post-list-table .row .cell.menuarticle a:hover {
-          color: #b99fea; }
+          color: #8e7b7b; }
 
 /*****************************************************************************/
 /*
@@ -101,8 +101,8 @@ sup {
       font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial";
       font-weight: 600;
       letter-spacing: -0.3px;
-      color: #b99fea;
-      text-shadow: 1px 1px 1px #efff0a; }
+      color: #8e7b7b;
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9); }
     .masthead .rootlink .mydescription {
       display: inline-block;
       font-size: 20px;
@@ -110,9 +110,9 @@ sup {
       font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial";
       font-weight: 100;
       letter-spacing: -0.3px;
-      color: #b99fea; }
+      color: #8e7b7b; }
     .masthead .rootlink:hover .myname {
-      color: #d7c9f3; }
+      color: #a69696; }
   .masthead .subtitle {
     font-size: 22.4px;
     margin: 0;
@@ -133,7 +133,7 @@ sup {
         margin-right: 0; }
       .masthead .socialmedia li a {
         text-decoration: none;
-        color: #b99fea;
+        color: #8e7b7b;
         display: inline-block;
         margin-left: auto;
         margin-right: auto; }
@@ -141,13 +141,13 @@ sup {
           color: #333;
           border: none; }
         .masthead .socialmedia li a.fa-github:hover {
-          color: #b99fea; }
+          color: #8e7b7b; }
         .masthead .socialmedia li a.fa-envelope:hover {
-          color: #b99fea; }
+          color: #8e7b7b; }
         .masthead .socialmedia li a.fa-twitter:hover {
-          color: #b99fea; }
+          color: #8e7b7b; }
         .masthead .socialmedia li a.fa-facebook-square:hover {
-          color: #b99fea; }
+          color: #8e7b7b; }
         .masthead .socialmedia li a.fa-rss-square:hover {
           color: #ff0f0f; }
   .masthead .main-menu {
@@ -161,7 +161,7 @@ sup {
     .masthead .main-menu li:hover {
       color: white; }
     .masthead .main-menu a {
-      color: #b99fea; }
+      color: #8e7b7b; }
       .masthead .main-menu a li {
         padding: 0;
         margin-right: 30px;
