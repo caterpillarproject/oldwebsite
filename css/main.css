@@ -159,9 +159,9 @@ sup {
     line-height: 200%;
     text-align: left; }
     .masthead .main-menu li:hover {
-      color: white; }
-    .masthead .main-menu a {
       color: #36404a; }
+    .masthead .main-menu a {
+      color: white; }
       .masthead .main-menu a li {
         padding: 0;
         margin-right: 30px;
