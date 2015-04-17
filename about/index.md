@@ -1,6 +1,6 @@
 ---
 layout: static
-title: Caterpillar Project
+title: What is the Caterpillar Project?
 ---
 
 <img src="/assets/homepage/Cat1.png" alt="Caterpillar Project" style="float: right; width: 40%; margin-left: 4%; margin-bottom: 5px;">
