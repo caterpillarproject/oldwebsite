@@ -133,7 +133,7 @@ sup {
         margin-right: 0; }
       .masthead .socialmedia li a {
         text-decoration: none;
-        color: #aaa;
+        color: #ff0f0f;
         display: inline-block;
         margin-left: auto;
         margin-right: auto; }
@@ -141,15 +141,15 @@ sup {
           color: #333;
           border: none; }
         .masthead .socialmedia li a.fa-github:hover {
-          color: #77cc66; }
+          color: #ff0f0f; }
         .masthead .socialmedia li a.fa-envelope:hover {
-          color: #dd4b39; }
+          color: #ff0f0f; }
         .masthead .socialmedia li a.fa-twitter:hover {
-          color: #0893d9; }
+          color: #ff0f0f; }
         .masthead .socialmedia li a.fa-facebook-square:hover {
-          color: #3b5897; }
+          color: #ff0f0f; }
         .masthead .socialmedia li a.fa-rss-square:hover {
-          color: #ee7f2f; }
+          color: #ff0f0f; }
   .masthead .main-menu {
     display: block;
     float: left;
@@ -159,7 +159,7 @@ sup {
     line-height: 200%;
     text-align: left; }
     .masthead .main-menu li:hover {
-      color: #36404a; }
+      color: #ff0f0f; }
     .masthead .main-menu a {
       color: white; }
       .masthead .main-menu a li {
