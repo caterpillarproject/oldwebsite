@@ -102,7 +102,7 @@ sup {
       font-weight: 600;
       letter-spacing: -0.3px;
       color: #630fff;
-      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8); }
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9); }
     .masthead .rootlink .mydescription {
       display: inline-block;
       font-size: 20px;
@@ -110,7 +110,7 @@ sup {
       font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial";
       font-weight: 100;
       letter-spacing: -0.3px;
-      color: #ff0f0f; }
+      color: #630fff; }
     .masthead .rootlink:hover .myname {
       color: #8442ff; }
   .masthead .subtitle {
@@ -133,7 +133,7 @@ sup {
         margin-right: 0; }
       .masthead .socialmedia li a {
         text-decoration: none;
-        color: #ff0f0f;
+        color: #630fff;
         display: inline-block;
         margin-left: auto;
         margin-right: auto; }
@@ -141,13 +141,13 @@ sup {
           color: #333;
           border: none; }
         .masthead .socialmedia li a.fa-github:hover {
-          color: #ff0f0f; }
+          color: #630fff; }
         .masthead .socialmedia li a.fa-envelope:hover {
-          color: #ff0f0f; }
+          color: #630fff; }
         .masthead .socialmedia li a.fa-twitter:hover {
-          color: #ff0f0f; }
+          color: #630fff; }
         .masthead .socialmedia li a.fa-facebook-square:hover {
-          color: #ff0f0f; }
+          color: #630fff; }
         .masthead .socialmedia li a.fa-rss-square:hover {
           color: #ff0f0f; }
   .masthead .main-menu {
