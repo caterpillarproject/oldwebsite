@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>The Caterpillar Project</title>
+        <description>A large suite of cosmological dark matter simulations of Milky Way-sized galaxies.</description>      
+        <link>http://caterpillarproject.org</link>
+        <atom:link href="http://caterpillarproject.org/feed.xml" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Hello World</title>
+                <description>&lt;p&gt;Here I hope to place various bits of information relating to my research. This will include interesting papers, code snippets and other things I find useful.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 03 Jan 2012 00:00:00 -0500</pubDate>
+                <link>http://caterpillarproject.org/about/hello-world</link>
+                <guid isPermaLink="true">http://caterpillarproject.org/about/hello-world</guid>
+            </item>
+        
+    </channel>
+</rss>
