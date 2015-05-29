@@ -9,7 +9,7 @@ title: People
       <img src="/people/bgriffen.jpg">
       <div class="container">
         <span class="projectlistheading">Dr. Brendan Griffen</span><br />
-        <em>Project Lead, Massachusetts Institute of Technology</em><br>
+        <em>Project Leader, Massachusetts Institute of Technology</em><br>
         simulations, dwarf galaxies, Galactic assembly, globular clusters, galaxy morphology, reionization
       </div>
   </a>
