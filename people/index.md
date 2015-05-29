@@ -9,7 +9,7 @@ title: People
       <img src="/people/bgriffen.jpg">
       <div class="container">
         <span class="projectlistheading">Dr. Brendan Griffen</span><br />
-        <em>Project Leader, Massachusetts Institute of Technology</em><br>
+        Project Leader, <em>Massachusetts Institute of Technology</em><br>
         simulations, dwarf galaxies, Galactic assembly, globular clusters, galaxy morphology, reionization
       </div>
   </a>
@@ -20,7 +20,7 @@ title: People
       <img src="/people/fgomez.jpg">
       <div class="container">
         <span class="projectlistheading">Dr. Facundo Gomez</span><br />
-        <em>Semi-analytic Modelling Project Lead, MPIA</em><br>
+        Semi-analytic Modelling Project Lead, <em>MPIA</em><br>
         simulations, galaxy formation, dwarf galaxies, Galactic assembly
       </div>
   </a>
@@ -31,7 +31,7 @@ title: People
       <img src="/people/gdooley.jpg">
       <div class="container">
         <span class="projectlistheading">Greg Dooley</span><br />
-        <em>Graduate Student, Massachusetts Institute of Technology</em><br>
+        Graduate Student, <em>Massachusetts Institute of Technology</em><br>
         simulations, stellar streams, interacting dark matter, cosmology
       </div>
   </a>
@@ -42,7 +42,7 @@ title: People
       <img src="/people/alexji.jpg">
       <div class="container">
         <span class="projectlistheading">Alex Ji</span><br />
-        <em>Graduate Student, Massachusetts Institute of Technology</em><br>
+        Graduate Student, <em>Massachusetts Institute of Technology</em><br>
         simulations, galaxy formation, first stars and dwarf galaxies
       </div>
   </a>
@@ -54,7 +54,7 @@ title: People
       <img src="/people/afrebel.jpg">
       <div class="container">
         <span class="projectlistheading">Professor Anna Frebel</span><br />
-        <em>Faculty, Massachusetts Institute of Technology</em><br>
+        Faculty, <em>Massachusetts Institute of Technology</em><br>
         observations, metal-poor stars, first stars and  galaxies.
       </div>
   </a>
@@ -65,7 +65,7 @@ title: People
       <img src="/people/boshea.jpg">
       <div class="container">
         <span class="projectlistheading">Professor Brian O'Shea</span><br />
-        <em>Faculty, Michigan State University</em><br>
+        Faculty, <em>Michigan State University</em><br>
         simulations, first stars and galaxies, Pop III/II star formation
       </div>
   </a>
@@ -76,7 +76,7 @@ title: People
       <img src="/people/vogelsberger.jpg">
       <div class="container">
         <span class="projectlistheading">Professor Mark Vogelsberger</span><br />
-        <em>Faculty, Massachusetts Institute of Technology</em><br>
+        Faculty, <em>Massachusetts Institute of Technology</em><br>
         simulations, galaxy formation, interacting dark matter
       </div>
   </a>
