@@ -27,17 +27,6 @@ title: People
   </li> 
 
   <li>
-  <a href="http://space.mit.edu/people/dooley-gregory" target="_blank">
-      <img src="/people/gdooley.jpg">
-      <div class="container">
-        <span class="projectlistheading">Greg Dooley</span><br />
-        Graduate Student, <em>Massachusetts Institute of Technology</em><br>
-        simulations, stellar streams, interacting dark matter, cosmology
-      </div>
-  </a>
-  </li>
-
-  <li>
   <a href="http://space-live.mit.edu/people/ji-alexander-p" target="_blank">
       <img src="/people/alexji.jpg">
       <div class="container">
@@ -48,6 +37,16 @@ title: People
   </a>
   </li>   
  
+   <li>
+  <a href="http://space.mit.edu/people/dooley-gregory" target="_blank">
+      <img src="/people/gdooley.jpg">
+      <div class="container">
+        <span class="projectlistheading">Greg Dooley</span><br />
+        Graduate Student, <em>Massachusetts Institute of Technology</em><br>
+        simulations, stellar streams, interacting dark matter, cosmology
+      </div>
+  </a>
+  </li>
 
   <li>
   <a href="http://annafrebel.com/" target="_blank">
