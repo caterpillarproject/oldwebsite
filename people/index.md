@@ -16,6 +16,17 @@ title: People
   </li>
   
   <li>
+  <a href="http://www.mpa-garching.mpg.de/~fgomez/Welcome.html" target="_blank">
+      <img src="/people/fgomez.jpg">
+      <div class="container">
+        <span class="projectlistheading">Dr. Facundo Gomez</span><br />
+        <em>Semi-analytic Modelling Project Lead, MPIA</em><br>
+        simulations, galaxy formation, dwarf galaxies, Galactic assembly
+      </div>
+  </a>
+  </li> 
+
+  <li>
   <a href="http://space.mit.edu/people/dooley-gregory" target="_blank">
       <img src="/people/gdooley.jpg">
       <div class="container">
@@ -36,17 +47,7 @@ title: People
       </div>
   </a>
   </li>   
-  <li>
-
-  <a href="http://www.mpa-garching.mpg.de/~fgomez/Welcome.html" target="_blank">
-      <img src="/people/fgomez.jpg">
-      <div class="container">
-        <span class="projectlistheading">Dr. Facundo Gomez</span><br />
-        <em>Semi-analytic Modelling Project Lead, MPIA</em><br>
-        simulations, galaxy formation, dwarf galaxies, Galactic assembly
-      </div>
-  </a>
-  </li>  
+ 
 
   <li>
   <a href="http://annafrebel.com/" target="_blank">
