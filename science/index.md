@@ -5,7 +5,7 @@ title: Science
 
 <ul class="projectlist">
 <li>
-  <a href="/science/satelliteplanes/">
+  <a href="/science/haloprops/">
       <img src="/assets/gallery/halos/Cat1.jpg">
       <div class="container">
         <span class="projectlistheading">Caterpillar Properties</span><br />
