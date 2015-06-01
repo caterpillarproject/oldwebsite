@@ -3,11 +3,11 @@ layout: static
 title: Gallery
 ---
 
-Here you can find a selection of plots relating to the simulation suite. 
+Here you can find a selection of plots and movies relating to the simulation suite. 
 
 ## Dark Matter Density Projections
 
-<iframe width="700" height="350"
+<iframe width="700" height="400"
 src="http://www.youtube.com/embed/g1ti7i7Ay3c?autoplay=1">
 </iframe>
 
