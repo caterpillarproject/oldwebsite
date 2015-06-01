@@ -7,6 +7,10 @@ Here you can find a selection of plots relating to the simulation suite.
 
 ## Dark Matter Density Projections
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=g1ti7i7Ay3c
+" target="_blank"><img src="http://img.youtube.com/vi/g1ti7i7Ay3c/0.jpg" 
+alt="Caterpillar Halos" width="240" height="180" border="10" /></a>
+
 The intensity corresponds to the logarithm of the dark matter density squared.
 
 <img src="/assets/gallery/halos/Cat1.jpg" style="width: 229px;">
