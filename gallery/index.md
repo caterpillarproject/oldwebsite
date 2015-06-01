@@ -7,8 +7,8 @@ Here you can find a selection of plots relating to the simulation suite.
 
 ## Dark Matter Density Projections
 
-<iframe width="420" height="315"
-src="http://www.youtube.com/embed/g1ti7i7Ay3c?autoplay=1">
+<iframe width="700" height="350"
+src="http://www.youtube.com/embed/g1ti7i7Ay3c?">
 </iframe>
 
 The intensity corresponds to the logarithm of the dark matter density squared.
