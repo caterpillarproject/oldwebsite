@@ -40,7 +40,7 @@ The intensity corresponds to the logarithm of the dark matter density squared.
 
 ## Lagrangian Volumes
 
-Tracing the particles within 4-5x the virial radius back to z = 0, we find a variety of morphologies across the <em>Caterpillar</em> halos. The particles are color coded by distance to the host halo at z = 0 (blue particles are close, red particles are far).
+Tracing the particles within 4-5x the virial radius back to z = 127, we find a variety of morphologies across the <em>Caterpillar</em> halos. The particles are color coded by distance to the host halo at z = 0 (blue particles are close, red particles are far).
 
 <center>
 <img src="/assets/gallery/lagr0.jpg" style="width: 325px;">
