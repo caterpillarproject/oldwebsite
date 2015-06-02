@@ -27,7 +27,7 @@ title: People
   </li> 
 
   <li>
-  <a href="http://space-live.mit.edu/people/ji-alexander-p" target="_blank">
+  <a href="http://www.alexji.com" target="_blank">
       <img src="/people/alexji.jpg">
       <div class="container">
         <span class="projectlistheading">Alex Ji</span><br />
