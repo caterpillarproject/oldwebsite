@@ -3,7 +3,7 @@ layout: static
 title: Caterpillar Properties
 ---
 
-Project Lead: Brendan Griffen (alexji@mit.edu)
+Project Lead: Brendan Griffen (brendan.f.griffen@gmail.com)
 
 ## Mass Assembly Histories
 
