@@ -79,7 +79,3 @@ We will attempt to quantify the extent to which small satellites can be regarded
 ## Take home message
 
 Our primary objective is to characterize the formation and evolution of Milky Way sized halos.
-
-<script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
