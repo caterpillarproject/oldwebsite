@@ -3,9 +3,10 @@ layout: static
 title: Science
 ---
 
-# Cosmological Parameters
+## Cosmological Parameters
+(Planck 2013 Cosmology)[http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1303.5076]
 
-  \\(\Omega_{\Lambda}\\) | \\(\Omega_{m}\\) | \\(\sigma_{8}\\) | \\(\n_{s}\\) | \\(h\\)
+  \\(\Omega_{\Lambda}\\) | \\(\Omega_{m}\\) | \\(\sigma_{8}\\) | \\(n_{s}\\) | \\(h\\)
   :---: | :---: | :---: | :---: | :---: | :--:
   0.68  | 0.31  | 0.83  | 0.96  | 0.96 | 0.67
 
