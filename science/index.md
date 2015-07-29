@@ -3,6 +3,12 @@ layout: static
 title: Science
 ---
 
+# Cosmological Parameters
+
+  \\(\Omega_{\Lambda}\\) | \\(\Omega_{m}\\) | \\(\sigma_{8}\\) | \\(\n_{s}\\) | \\(h\\)
+  :---: | :---: | :---: | :---: | :---: | :--:
+  0.68  | 0.31  | 0.83  | 0.96  | 0.96 | 0.67
+
 ## Simulation Parameters
 
 ### Parent Simulation
