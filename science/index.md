@@ -56,7 +56,7 @@ Notes: LX15 has only been run down to z = 6 for some of the halos. The rest are 
 
 ## Initial Conditions
 
-Although we adopt a modified version of MUSIC (v1.51), we include here for completeness our parameter file for our parent simulation from which all *Caterpillar* halos were extracted.
+Although we adopt a modified version of <span style="font-family:Courier">MUSIC</span> (v1.51), we include here for completeness our parameter file for our parent simulation from which all *Caterpillar* halos were extracted.
 
 {% highlight Bash %}
 [setup]  
@@ -103,7 +103,7 @@ grad_order              = 6
 
 {% end highlight %}
 
-Our P-Gadget3/Gadget4 flags used in our configuration file are as follows:
+Our <span style="font-family:Courier">P-Gadget3/Gadget4</span> flags used in our configuration file are as follows:
 
 {% highlight Bash %}
 PERIODIC  
