@@ -56,7 +56,7 @@ Notes: LX15 has only been run down to z = 6 for some of the halos. The rest are 
 
 ## Initial Conditions
 
-Although we adopt a modified version of \\({\sc{music}}\\) (v1.51), we include here for completeness our parameter file for our parent simulation from which all *Caterpillar* halos were extracted.
+Although we adopt a modified version of MUSIC (v1.51), we include here for completeness our parameter file for our parent simulation from which all *Caterpillar* halos were extracted.
 
 {% highlight Bash %}
 [setup]  
