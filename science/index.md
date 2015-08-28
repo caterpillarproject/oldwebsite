@@ -53,3 +53,75 @@ Notes: LX15 has only been run down to z = 6 for some of the halos. The rest are 
   </a>
   </li>
 </ul>
+
+## Initial Conditions
+
+Although we adopt a modified version of \\({\sc{music}}\\) (v1.51), we include here for completeness our parameter file for our parent simulation from which all *Caterpillar* halos were extracted.
+
+[setup]  
+boxlength               = 100  
+zstart                  = 127  
+levelmin                = 10  
+levelmin_TF             = 10  
+levelmax                = 10  
+padding                 = 8  
+overlap                 = 4  
+ref_center              = 0.5, 0.5, 0.5  
+ref_extent              = 0.2, 0.2, 0.2  
+align_top               = yes  
+baryons                 = no  
+use_2LPT                = no  
+use_LLA                 = no  
+periodic_TF             = yes  
+
+[cosmology]  
+Omega_m                 = 0.3175          
+Omega_L                 = 0.6825          
+Omega_b                 = 0.0489991       
+H0                      = 67.11           
+sigma_8                 = 0.8344         
+nspec                   = 0.9624          
+transfer                = eisenstein  
+
+[random]  
+seed[10]                = 34567  
+
+[output]  
+format                  = gadget2  
+filename                = ./ics  
+gadget_num_files        = 128  
+
+[poisson]  
+fft_fine                = yes  
+accuracy                = 1e-5  
+pre_smooth              = 3  
+post_smooth             = 3  
+smoother                = gs  
+laplace_order           = 6  
+grad_order              = 6  
+\end{lstlisting}  
+
+Our P-Gadget3/Gadget4 flags used in our configuration file are as follows:
+
+PERIODIC  
+UNEQUALSOFTENINGS  
+PMGRID=512  
+GRIDBOOST=2  
+PLACEHIGHRESREGION=2  
+ENLARGEREGION=1.2  
+MULTIPLEDOMAINS=16  
+PEANOHILBERT  
+WALLCLOCK  
+MYSORT  
+DOUBLEPRECISION  
+OUTPUT_IN_DOUBLEPRECISION  
+INPUT_IN_DOUBLEPRECISION  
+ORDER_SNAPSHOTS_BY_ID  
+NO_ISEND_IRECV_IN_DOMAIN  
+FIX_PATHSCALE_MPI_STATUS_IGNORE_BUG  
+COMPUTE_POTENTIAL_ENERGY  
+OUTPUTPOTENTIAL  
+RECOMPUTE_POTENTIAL_ON_OUTPUT  
+HAVE_HDF5  
+DEBUG  
+
