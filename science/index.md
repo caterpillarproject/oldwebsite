@@ -3,6 +3,30 @@ layout: static
 title: Science
 ---
 
+## Current Projects
+
+<ul class="projectlist">
+<li>
+  <a href="/science/haloprops/">
+      <img src="/assets/gallery/halos/Cat1.jpg">
+      <div class="container">
+        <span class="projectlistheading">Caterpillar Properties</span><br />
+        Project Lead: Brendan Griffen
+      </div>
+  </a>
+  </li>
+
+  <li>
+  <a href="/science/satelliteplanes/">
+      <img src="http://www.daviddarling.info/images/Milky_Way_satellite_galaxies.jpg">
+      <div class="container">
+        <span class="projectlistheading">Satellite Planes</span><br />
+        Project Lead: Alex Ji
+      </div>
+  </a>
+  </li>
+</ul>
+
 ## Cosmological Parameters
 [Planck 2013 Cosmology](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1303.5076)
 
@@ -29,30 +53,6 @@ title: Science
 5 | 11 | 2048^3 | 1025 | 1527 | 452
 
 Notes: LX15 has only been run down to z = 6 for some of the halos. The rest are run down to z = 0. Timesteps are logarithm in expansion factor down to z = 6 (10 Myrs/snapshot) and linear in expansion factor down to z = 0 (50 Myrs/snapshot) for all runs. We have complete (modified) <span style="font-family:Courier">rockstar</span> halo catalogues (together with <span style="font-family:Courier">consistent-trees</span> merger trees) and z = 0 <span style="font-family:Courier">subfind</span> catalogues.
-
-## Current Projects
-
-<ul class="projectlist">
-<li>
-  <a href="/science/haloprops/">
-      <img src="/assets/gallery/halos/Cat1.jpg">
-      <div class="container">
-        <span class="projectlistheading">Caterpillar Properties</span><br />
-        Project Lead: Brendan Griffen
-      </div>
-  </a>
-  </li>
-
-  <li>
-  <a href="/science/satelliteplanes/">
-      <img src="http://www.daviddarling.info/images/Milky_Way_satellite_galaxies.jpg">
-      <div class="container">
-        <span class="projectlistheading">Satellite Planes</span><br />
-        Project Lead: Alex Ji
-      </div>
-  </a>
-  </li>
-</ul>
 
 ## Initial Conditions
 
