@@ -58,6 +58,7 @@ Notes: LX15 has only been run down to z = 6 for some of the halos. The rest are 
 
 Although we adopt a modified version of \\({\sc{music}}\\) (v1.51), we include here for completeness our parameter file for our parent simulation from which all *Caterpillar* halos were extracted.
 
+{% highlight Bash %}
 [setup]  
 boxlength               = 100  
 zstart                  = 127  
@@ -98,11 +99,13 @@ pre_smooth              = 3
 post_smooth             = 3  
 smoother                = gs  
 laplace_order           = 6  
-grad_order              = 6  
-\end{lstlisting}  
+grad_order              = 6 
+
+{% end highlight %}
 
 Our P-Gadget3/Gadget4 flags used in our configuration file are as follows:
 
+{% highlight Bash %}
 PERIODIC  
 UNEQUALSOFTENINGS  
 PMGRID=512  
@@ -124,4 +127,4 @@ OUTPUTPOTENTIAL
 RECOMPUTE_POTENTIAL_ON_OUTPUT  
 HAVE_HDF5  
 DEBUG  
-
+{% end highlight %}
