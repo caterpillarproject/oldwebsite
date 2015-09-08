@@ -3,6 +3,8 @@ layout: static
 title: Science
 ---
 
+<b>Updates:</b> For much more detail, please see our flagship paper on the [arXiv](http://arxiv.org/abs/1509.01255v1 "Caterpillar Project").
+
 ## Current Projects
 
 <ul class="projectlist">
