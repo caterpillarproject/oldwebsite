@@ -281,9 +281,7 @@ for mass,scale in zip(main_branch['mvir'],main_branch['scale']):
 
 If you want the Gadget header:
 
-header = htils.get_halo_header(hpath)
-
-``python
+```python
 
 # get a random halo
 hpaths = htils.get_paper_paths_lx(14)
