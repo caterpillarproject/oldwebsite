@@ -15,14 +15,12 @@ published: true
 3. Get our modules from the [Caterpillar Pproject github page](https://github.com/caterpillarproject). These include the following two critical libraries:
 
 ```bash
-git@github.com:caterpillarproject/analysis.git
 git@github.com:caterpillarproject/modules.git
 ```
 
 You can obtain them in the following way (ensure you are in the directory you want them to be placed):
 
 ```bash
-> git clone git@github.com:caterpillarproject/analysis.git
 > git clone git@github.com:caterpillarproject/modules.git
 ```
 
@@ -32,7 +30,6 @@ You can obtain them in the following way (ensure you are in the directory you wa
 
 ```bash
 setenv PYTHONPATH /path/to/modules:$PYTHONPATH
-setenv PYTHONPATH /path/to/analysis:$PYTHONPATH
 ```
 
 5. Install the [Anaconda](https://store.continuum.io/cshop/anaconda/) python distribution and be sure to run `conda update` periodically. You can also

@@ -93,7 +93,7 @@ entries:
           product: all
           version: all
 
-        - title: Your Tools - Modules & Analysis
+        - title: Your Analysis Modules
           url: /doc_modules_and_analysis.html
           audience: astronomers
           platform: all
