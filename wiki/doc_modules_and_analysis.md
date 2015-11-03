@@ -12,7 +12,7 @@ published: true
 
 2. Keep in mind: `bigbang.mit.edu` (our group box) is where you want to do your analysis, access data etc. and `antares.mit.edu` is the login node for the cluster for the whole Institute. Remember: analysis = bigbang, jobs = antares! See Compute Cluster Information in the sidebar for more detail on these two machines and how the data is actually distributed.
 
-3. Get our modules from the [Caterpillar Pproject github page](https://github.com/caterpillarproject). These include the following two critical libraries:
+3. Get our modules from the [Caterpillar Project github page](https://github.com/caterpillarproject). These include the following two critical libraries:
 
 ```bash
 git@github.com:caterpillarproject/modules.git

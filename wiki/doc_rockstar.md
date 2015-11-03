@@ -16,7 +16,7 @@ The code's paper can be found [here](http://arxiv.org/abs/1110.4372). Documentat
 <span style="font-family:Courier">Rockstar</span> is able to find any overdensity in 6D phase space including both halos and streams. To distinguish gravitationally bound halos from other phase space structures, <span style="font-family:Courier">Rockstar</span> performs a single-pass energy calculation to determine which particles are gravitationally bound to the halo. Over-densities where at least 50% of
 the mass is gravitationally bound are considered halos, with the exact fraction a tuneable parameter `unbound_threshold` of the algorithm Behroozi et al. (2013).
 
-This definition is generally very effective at identifying halos and subhalos -- but it fails in two important situations.First, if a subhalo is experiencing significant tidal stripping, the 50$\%$ cutoff can remove a subhalo from the catalog that should actually exist. We have found that changing the cutoff can recover the missing subhalos, but the best value of the cutoff is not easily determined. Second, <span style="font-family:Courier">Rockstar</span> is occasionally _too_ effective at finding substructure in our high resolution simulations. In particular, it often finds velocity substructures in the cores of our halos that are clearly spurious based on their mass accretion histories and density profiles. Importantly, these two issues do not just affect low mass subhalos, but they can also add or remove halos with \\(V_{max}\\) > 25 km/s.
+This definition is generally very effective at identifying halos and subhalos -- but it fails in two important situations. First, if a subhalo is experiencing significant tidal stripping, the 50% cutoff can remove a subhalo from the catalog that should actually exist. We have found that changing the cutoff can recover the missing subhalos, but the best value of the cutoff is not easily determined. Second, <span style="font-family:Courier">Rockstar</span> is occasionally _too_ effective at finding substructure in our high resolution simulations. In particular, it often finds velocity substructures in the cores of our halos that are clearly spurious based on their mass accretion histories and density profiles. Importantly, these two issues do not just affect low mass subhalos, but they can also add or remove halos with \\(V_{max}\\) > 25 km/s.
 
 Both of these problems can be alleviated by applying an iterative unbinding procedure. We have implemented such an iterative unbinding procedure within <span style="font-family:Courier">Rockstar</span>. At each iteration, we remove particles whose kinetic energy exceeds the potential energy from other particles in that iteration. The potential is computed with the <span style="font-family:Courier">Rockstar</span> Barnes-Hut method (see Appendix B of Behroozi et al. (2013). We iterate the unbinding until we obtain a self-bound set of particles. Halos are only considered resolved if they contain at least 20 self-bound particles. All halo properties are then computed as usual, but with the self-bound particles instead of the one-pass bound particles. The iterative unbinding recovers the missing subhalos and removes most but not all of the spurious subhalos. Across 13 of our _Caterpillar_ halos, we recover 52 halos with subhalo masses above 10<sup>8</sup> \\(M_\odot\\) which would have otherwise been lost using the conventional <span style="font-family:Courier">Rockstar</span>. See [Griffen et al. (2015)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1509.01255) for further details.
 
@@ -29,35 +29,35 @@ Both of these problems can be alleviated by applying an iterative unbinding proc
 variable | units |   definition | notes
  :---: | --- | --- | --- 
 `id` | | the ID number of the halo | 
-`posX` | Mpc/h  |  comoving z-position | 
+`posX` | Mpc/h  |  comoving x-position | 
 `posY` | Mpc/h  |  comoving y-position | 
 `posZ` | Mpc/h  |  comoving z-position | 
-`pecVX` |   km/s | Peculiar x-dir physical velocity | 
-`pecVY` |   km/s | Peculiar y-dir physical velocity | 
-`pecVZ` |   km/s | Peculiar z-dir physical velocity | 
+`pecVX` |   km/s | Peculiar x-dir velocity | 
+`pecVY` |   km/s | Peculiar y-dir velocity | 
+`pecVZ` |   km/s | Peculiar z-dir velocity | 
 `corevelX` | km/s | x-dir core velocity | 
 `corevelY` | km/s | y-dir core velocity | 
 `corevelZ` | km/s | z-dir core velocity | 
 `bulkvelX` | comoving km/s | x-dir bulk velocity | 
 `bulkvelY` | comoving km/s | y-dir bulk velocity | 
 `bulkvelZ` | comoving km/s | z-dir bulk velocity | 
-`mvir` |  Msol/h | virial mass set by Bryan & Norman prescription | this should only be used for the massive host halos - it is best to just use `mgrav`  
-`mgrav` |  Msol/h | virial mass set by Bryan & Norman prescription | when using the catalogues, only use this quantity as it is the gravitationally bound mass of the halo - especially for subhalos  
-`rvir` |  kpc/h | virial radius set by Bryan & Norman prescription | 
+`mvir` |  Msol/h | virial mass set by [Bryan & Norman (1998)](http://cdsads.u-strasbg.fr/abs/1998ApJ...495...80B) prescription | this should only be used for the massive host halos - it is best to just use `mgrav`  
+`mgrav` |  Msol/h | virial mass set by [Bryan & Norman (1998)](http://cdsads.u-strasbg.fr/abs/1998ApJ...495...80B) prescription | when using the catalogues, only use this quantity as it is the gravitationally bound mass of the halo - especially for subhalos  
+`rvir` |  kpc/h | virial radius set by [Bryan & Norman (1998)](http://cdsads.u-strasbg.fr/abs/1998ApJ...495...80B) prescription | 
 `child_r` | |  | 
 `vmax_r` | km/s |  | 
 `mgrav` |   Msol/h  | gravitational mass | 
 `vmax` |  km/s  | Maximum circular velocity | 
 `rvmax` |  kpc/h | radius at maximum circular velocity | 
 `rs` | kpc/h |  NFW scale radius | 
-`rs_klypin` | kpc/h | Klypin defined scale radius | 
+`rs_klypin` | kpc/h | Klypin defined scale radius | better for smaller halos
 `vrms` |  km/s  | rms velocity | 
 `Jx` | | x-component angular momentum | 
 `Jy` | | y-component angular momentum | 
 `Jz` | | z-component angular momentum | 
 `Epot` | | Potential energy of the halo | 
-`spin` | | Peebles defined spin parameter | 
-`spin_bullock` | | Bullock's modified spin parameter | 
+`spin` | | Peebles defined spin parameter | This should only be used for halos with a large number of particles (~500+)
+`spin_bullock` | | Bullock's modified spin parameter | See above.
 `xoff` | | Position offset parameter abs(center of mass position - halo position) | 
 `voff` | | Velocity offset parameter abs(center of mass velocity - halo velocity) | 
 `b_to_a` | | Halo ellipticity b/a | 

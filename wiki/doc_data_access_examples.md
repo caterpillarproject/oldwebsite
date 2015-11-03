@@ -298,12 +298,12 @@ header.filenum        header.npart          header.time
 header.hubble         header.omega0 
 ```
 
-See the Gadget section in the sidebar for more information on the header and block types available.
+Be sure to divide the relevant quantities (pos, rvir etc.) by `header.hubble`. See the Gadget section in the sidebar for more information on the header and block types available.
 
 If you wanted to get the postions of all the particles for a specific halo (or any block). 
 
 ```python
-pos halos.load_partblock(hpath,zoomid,"POS ") # units Mpc/h
+pos htils.load_partblock(hpath,zoomid,"POS ") # units Mpc/h
 # "VEL ", "ID  " also work (notice the space)
 
 print pos*1000. # kpc/h
@@ -316,9 +316,9 @@ print pos*1000. # kpc/h
 ...
 ```
 
-If you wanted just the ids for a selection of particle ids
+If you wanted just the ids for a selection of particle ids:
 
 ```python
-pos halos.load_partblock(hpath,zoomid,"POS ",partids=[listofids]) # units Mpc/h
+pos = htils.load_partblock(hpath,zoomid,"POS ",partids=[listofids]) # units Mpc/h
 ```
 

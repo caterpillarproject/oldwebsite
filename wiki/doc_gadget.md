@@ -39,3 +39,35 @@ Parameter files for each of the runs can be found as `param.txt` in the relevant
 /home/bgriffen/exec/gadget3
 /home/bgriffen/exec/gadget4
 ```
+
+## Data Blocks In The Gadget Files
+
+See Data Access Examples to see how to load each of these blocks. One such way is:
+
+```python
+import haloutils as htils
+hpath = htils.get_paper_paths_lx(14)[0]
+zoomid = htils.load_zoomid(hpath)
+blockname = "POS " # NOTE THE EXTRA SPACE!
+pos = htils.load_partblock(hpath,zoomid,blockname,partids=[listofids]) # units Mpc/h
+```
+
+{{site.data.alerts.tip}} Make sure you include the right number of spaces (4) otherwise you will get an error when trying to read the blocks.{{site.data.alerts.end}}
+
+Other blocks you have access to are listed below:
+
+<center>
+
+Block Name | Description | Units | Notes
+:----: | ---- | -----  | ------
+`ID`  | ID number (N) | -  | --  
+`POS` | position (Nx3) | comoving Mpc/h  | They are all around ~50 Mpc/h as they are in the center of the 100 Mpc/h box for the resimulations.  
+`VEL` | velocity (Nx3) | spatial km\\(\sqrt(a)\\)/s  | Spatial velocity. The peculiar velocity is obtained by multiplying this value by \\(\sqrt(a)\\).
+`MASS` | particle mass (N) | Msol/h | Use `header.massarr[1]*1e10` as it is faster than reading in the entire block.  
+`POT` | potential energy | ---  | ----  
+
+</center>
+
+{{site.data.alerts.warning}} Remember to use the scale factor for the snapshot you are working on to convert the comoving quantities to physical. For z = 0, it doesn't matter.{{site.data.alerts.end}}
+
+
