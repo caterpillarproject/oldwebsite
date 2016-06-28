@@ -17,13 +17,13 @@ src="http://www.youtube.com/embed/g1ti7i7Ay3c?autoplay=0">
 src="https://www.youtube.com/watch?v=ekLyLfB51Vw?autoplay=0">
 </iframe>
 
-[Download]("/assets/gallery/movies/CaterpillarProjectHighResBGriffen.mp4.mp4")
+[Download]("/assets/gallery/movies/CaterpillarProjectHighResBGriffen.mp4")
 
 <iframe width="700" height="510"
 src="https://www.youtube.com/watch?v=BXJ3xKIzqIk?autoplay=0">
 </iframe>
 
-[Download]("/assets/gallery/movies/CaterpillarProjectFirstStarsYellowFirstGalaxiesRedBGriffen.mp4.mp4")
+[Download]("/assets/gallery/movies/CaterpillarProjectFirstStarsYellowFirstGalaxiesRedBGriffen.mp4")
 
 
 The intensity corresponds to the logarithm of the dark matter density squared.
