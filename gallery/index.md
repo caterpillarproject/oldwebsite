@@ -8,19 +8,19 @@ Here you can find a selection of plots and movies relating to the simulation sui
 ## Dark Matter Density Projections
 
 <iframe width="700" height="510"
-src="http://www.youtube.com/embed/g1ti7i7Ay3c?autoplay=0">
+src="http://www.youtube.com/embed/g1ti7i7Ay3c">
 </iframe>
 
 [Download]("/assets/gallery/movies/CaterpillarPanelBGriffen.mp4")
 
 <iframe width="700" height="510"
-src="https://www.youtube.com/watch?v=ekLyLfB51Vw?autoplay=0">
+src="https://www.youtube.com/watch?v=ekLyLfB51Vw">
 </iframe>
 
 [Download]("/assets/gallery/movies/CaterpillarProjectHighResBGriffen.mp4")
 
 <iframe width="700" height="510"
-src="https://www.youtube.com/watch?v=BXJ3xKIzqIk?autoplay=0">
+src="https://www.youtube.com/watch?v=BXJ3xKIzqIk">
 </iframe>
 
 [Download]("/assets/gallery/movies/CaterpillarProjectFirstStarsYellowFirstGalaxiesRedBGriffen.mp4")
