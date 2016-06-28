@@ -11,19 +11,19 @@ Here you can find a selection of plots and movies relating to the simulation sui
 src="http://www.youtube.com/embed/g1ti7i7Ay3c?autoplay=0">
 </iframe>
 
-[Download]("http://www.caterpillarproject.org/assets/gallery/movies/CaterpillarPanelBGriffen.mp4")
+[Download]("/assets/gallery/movies/CaterpillarPanelBGriffen.mp4")
 
 <iframe width="700" height="510"
 src="http://www.youtube.com/embed/ekLyLfB51Vw?autoplay=0">
 </iframe>
 
-[Download]("http://www.caterpillarproject.org/assets/gallery/movies/CaterpillarProjectHighResBGriffen.mp4")
+[Download]("/assets/gallery/movies/CaterpillarProjectHighResBGriffen.mp4")
 
 <iframe width="700" height="510"
 src="http://www.youtube.com/embed/BXJ3xKIzqIk?autoplay=0">
 </iframe>
 
-[Download]("http://www.caterpillarproject.org/assets/gallery/movies/CaterpillarProjectFirstStarsYellowFirstGalaxiesRedBGriffen.mp4")
+[Download]("/assets/gallery/movies/CaterpillarProjectFirstStarsYellowFirstGalaxiesRedBGriffen.mp4")
 
 
 The intensity corresponds to the logarithm of the dark matter density squared.
