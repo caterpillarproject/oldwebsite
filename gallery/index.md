@@ -13,13 +13,13 @@ src="http://www.youtube.com/embed/g1ti7i7Ay3c?autoplay=0">
 
 [Download]("/assets/gallery/movies/CaterpillarPanelBGriffen.mp4")
 
-<iframe width="700" height="510"
+<iframe width="700" height="470"
 src="http://www.youtube.com/embed/ekLyLfB51Vw?autoplay=0">
 </iframe>
 
 [Download]("/assets/gallery/movies/CaterpillarProjectHighResBGriffen.mp4")
 
-<iframe width="700" height="510"
+<iframe width="700" height="470"
 src="http://www.youtube.com/embed/BXJ3xKIzqIk?autoplay=0">
 </iframe>
 
