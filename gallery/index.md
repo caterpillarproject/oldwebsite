@@ -11,7 +11,7 @@ Here you can find a selection of plots and movies relating to the simulation sui
 src="http://www.youtube.com/embed/g1ti7i7Ay3c?autoplay=0">
 </iframe>
 
-<a href="http://www.caterpillarproject.org/assets/gallery/movies/CaterpillarPanelBGriffen.mp4">Download</a>
+<a href="http://www.caterpillarproject.org/assets/movies/CaterpillarPanelBGriffen.mp4">Download</a>
 
 <iframe width="700" height="410"
 src="http://www.youtube.com/embed/ekLyLfB51Vw?autoplay=0">
