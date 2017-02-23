@@ -13,7 +13,8 @@ title: Science
       <img src="/assets/gallery/papers/paper4.png">
       <div class="container">
         <span class="projectlistheading">Tracing the first stars and galaxies of the Milky Way</span><br />
-        Griffen, Brendan F.; Dooley, Gregory A.; Ji, Alexander P.; O'Shea, Brian W.; Gómez, Facundo A.; Frebel, Anna
+        Lead Author: Griffen, Brendan F. <br>
+        Dooley, Gregory A.; Ji, Alexander P.; O'Shea, Brian W.; Gómez, Facundo A.; Frebel, Anna
       </div>
   </a>
   </li>
@@ -22,7 +23,8 @@ title: Science
       <img src="/assets/gallery/papers/paper3.png">
       <div class="container">
         <span class="projectlistheading">An observer's guide to the (Local Group) dwarf galaxies: predictions for their own dwarf satellite populations</span><br />
-        Dooley, Gregory A.; Peter, Annika H. G.; Yang, Tianyi; Willman, Beth; Griffen, Brendan F.; Frebel, Anna
+        Lead Author: Dooley, Gregory A. <br>
+        ; Peter, Annika H. G.; Yang, Tianyi; Willman, Beth; Griffen, Brendan F.; Frebel, Anna
       </div>
   </a>
   </li>
@@ -31,16 +33,18 @@ title: Science
       <img src="/assets/gallery/papers/paper2.png">
       <div class="container">
         <span class="projectlistheading">JINA-NuGrid Galactic Chemical Evolution Pipeline</span><br />
-        Côté, Benoit; Ritter, Christian; Herwig, Falk; O'Shea, Brian W.; Pignatari, Marco; Silvia, Devin; Jones, Samuel; Fryer, Chris L.
+        Lead Author: Côté, Benoit <br>
+        Ritter, Christian; Herwig, Falk; O'Shea, Brian W.; Pignatari, Marco; Silvia, Devin; Jones, Samuel; Fryer, Chris L.
       </div>
   </a>
   </li>
   <li>
   <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1509.01255">
-      <img src="/assets/papers/paper1.png">
+      <img src="/assets/gallery/papers/paper1.png">
       <div class="container">
         <span class="projectlistheading">The Caterpillar Project: A Large Suite of Milky Way Sized Halos</span><br />
-        Griffen, Brendan F.; Ji, Alexander P.; Dooley, Gregory A.; Gómez, Facundo A.; Vogelsberger, Mark; O'Shea, Brian W.; Frebel, Anna
+        Lead Author: Griffen, Brendan F. <br>
+        Ji, Alexander P.; Dooley, Gregory A.; Gómez, Facundo A.; Vogelsberger, Mark; O'Shea, Brian W.; Frebel, Anna
       </div>
   </a>
   </li>
