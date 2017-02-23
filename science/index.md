@@ -3,27 +3,44 @@ layout: static
 title: Science
 ---
 
-<b>Updates:</b> For much more detail, please see our flagship paper on the [arXiv](http://arxiv.org/abs/1509.01255v1 "Caterpillar Project").
+<b>Last Updated:</b> 22nd February, 2016.
 
-## Current Projects
+## Current Papers
 
 <ul class="projectlist">
 <li>
-  <a href="/science/haloprops/">
-      <img src="/assets/gallery/halos/Cat1.jpg">
+  <a href="http://adsabs.harvard.edu/abs/2016arXiv161100759G">
+      <img src="/assets/papers/paper4.png">
       <div class="container">
-        <span class="projectlistheading">Caterpillar Properties</span><br />
-        Project Lead: Brendan Griffen
+        <span class="projectlistheading">Tracing the first stars and galaxies of the Milky Way</span><br />
+        Griffen, Brendan F.; Dooley, Gregory A.; Ji, Alexander P.; O'Shea, Brian W.; Gómez, Facundo A.; Frebel, Anna
       </div>
   </a>
   </li>
-
-  <li>
-  <a href="/science/satelliteplanes/">
-      <img src="http://www.daviddarling.info/images/Milky_Way_satellite_galaxies.jpg">
+<li>
+  <a href="http://adsabs.harvard.edu/abs/2016arXiv161000708D">
+      <img src="/assets/papers/paper3.png">
       <div class="container">
-        <span class="projectlistheading">Satellite Planes</span><br />
-        Project Lead: Alex Ji
+        <span class="projectlistheading">An observer's guide to the (Local Group) dwarf galaxies: predictions for their own dwarf satellite populations</span><br />
+        Dooley, Gregory A.; Peter, Annika H. G.; Yang, Tianyi; Willman, Beth; Griffen, Brendan F.; Frebel, Anna
+      </div>
+  </a>
+  </li>
+<li>
+  <a href="http://adsabs.harvard.edu/abs/2016arXiv160909528C">
+      <img src="/assets/papers/paper2.png">
+      <div class="container">
+        <span class="projectlistheading">JINA-NuGrid Galactic Chemical Evolution Pipeline</span><br />
+        Côté, Benoit; Ritter, Christian; Herwig, Falk; O'Shea, Brian W.; Pignatari, Marco; Silvia, Devin; Jones, Samuel; Fryer, Chris L.
+      </div>
+  </a>
+  </li>
+  <li>
+  <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1509.01255">
+      <img src="/assets/papers/paper1.png">
+      <div class="container">
+        <span class="projectlistheading">The Caterpillar Project: A Large Suite of Milky Way Sized Halos</span><br />
+        Griffen, Brendan F.; Ji, Alexander P.; Dooley, Gregory A.; Gómez, Facundo A.; Vogelsberger, Mark; O'Shea, Brian W.; Frebel, Anna
       </div>
   </a>
   </li>
