@@ -5,12 +5,12 @@ title: Science
 
 <b>Last Updated:</b> 22nd February, 2016.
 
-## Current Papers
+## Papers
 
 <ul class="projectlist">
 <li>
   <a href="http://adsabs.harvard.edu/abs/2016arXiv161100759G">
-      <img src="/assets/papers/paper4.png">
+      <img src="/assets/gallery/papers/paper4.png">
       <div class="container">
         <span class="projectlistheading">Tracing the first stars and galaxies of the Milky Way</span><br />
         Griffen, Brendan F.; Dooley, Gregory A.; Ji, Alexander P.; O'Shea, Brian W.; Gómez, Facundo A.; Frebel, Anna
@@ -19,7 +19,7 @@ title: Science
   </li>
 <li>
   <a href="http://adsabs.harvard.edu/abs/2016arXiv161000708D">
-      <img src="/assets/papers/paper3.png">
+      <img src="/assets/gallery/papers/paper3.png">
       <div class="container">
         <span class="projectlistheading">An observer's guide to the (Local Group) dwarf galaxies: predictions for their own dwarf satellite populations</span><br />
         Dooley, Gregory A.; Peter, Annika H. G.; Yang, Tianyi; Willman, Beth; Griffen, Brendan F.; Frebel, Anna
@@ -28,7 +28,7 @@ title: Science
   </li>
 <li>
   <a href="http://adsabs.harvard.edu/abs/2016arXiv160909528C">
-      <img src="/assets/papers/paper2.png">
+      <img src="/assets/gallery/papers/paper2.png">
       <div class="container">
         <span class="projectlistheading">JINA-NuGrid Galactic Chemical Evolution Pipeline</span><br />
         Côté, Benoit; Ritter, Christian; Herwig, Falk; O'Shea, Brian W.; Pignatari, Marco; Silvia, Devin; Jones, Samuel; Fryer, Chris L.
