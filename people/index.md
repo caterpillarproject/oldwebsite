@@ -3,6 +3,8 @@ layout: static
 title: People
 ---
 
+Note: the affiliations are set to the affiliations during the bulk of the Caterpillar project timeline. 
+
 <ul class="projectlist">
   <li>
   <a href="http://www.brendangriffen.com/" target="_blank">
