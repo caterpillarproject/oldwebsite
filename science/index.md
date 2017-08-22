@@ -3,7 +3,7 @@ layout: static
 title: Science
 ---
 
-<b>Last Updated:</b> 22nd Feb., 2017.
+<b>Last Updated:</b> 22nd Aug., 2017.
 
 ## Papers
 
@@ -17,17 +17,6 @@ title: Science
       </div>
   </a>
   </li>
-
-  <li>
-  <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1610.00708">
-      <img src="/assets/gallery/papers/paper4.png">
-      <div class="container">
-        <span class="projectlistheading">An observer's guide to the (Local Group) dwarf galaxies: predictions for their own dwarf satellite populations</span><br />
-        Dooley, Gregory A.; Peter, Annika H. G.; Yang, Tianyi; Willman, Beth; Griffen, Brendan F.; Frebel, Anna
-      </div>
-  </a>
-  </li>
-
 
 <li>
   <a href="http://adsabs.harvard.edu/abs/2016arXiv161100759G">
