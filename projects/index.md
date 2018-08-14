@@ -31,11 +31,12 @@ The Caterpillar suite was designed to answer certain questions in key areas.
 </div>
 
 <br>
+
  <div class="card">
-  <div class="card-image" style="background-image: url({{ site.url }}/images/milkyway.jpg)"></div>
+  <div class="card-image" style="background-image: url({{ site.url }}/images/milkyway.png)"></div>
   <div class="card-content">
     <h1>Chemical Evolution Of The Milky Way</h1>
-    <p>Providing a quantitative window into complex cellular environments underpins much of discovery and development of new cell-based medicines. To study these environments I deploy various statistical and image processing techniques to process large volumes of image data typically found in these biological settings.</p>
+    <p>A wealth of information can be learned from the chemical signature of a galaxy. Building accurate chemical models to explain the plethora of chemical signatures found in our Galaxy remains a leading challenge for the field. The statistically large sample of high-resolution halos enables certain aspects of these signatures to be better understood within the broader context of galaxy formation.</p>
   </div>
 </div>
 
