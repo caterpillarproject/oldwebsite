@@ -26,14 +26,14 @@ The Caterpillar suite was designed to answer certain questions in key areas.
   <div class="card-image" style="background-image: url({{ site.url }}/images/firststars.jpg)"></div>
   <div class="card-content">
     <h1>First Stars & Galaxies Of The Milky Way</h1>
-    <p>The exact origin of the first stars and galaxies is still yet unknown. As the data avalanche continues from ever increasingly comprehensive observational surveys, updated models of the origin and formation of these stellar system are required. Caterpillar's high temporal and spatial resolution results the birth of these small stellar systems and since the suite is completed to z = 0, allows us to connected the high-redshift universe with that of the present day.</p>
+    <p>The exact origin of the first stars and galaxies is still yet unknown. As the data avalanche continues from ever increasingly comprehensive observational surveys, updated models of the origin and formation of these stellar system are required. Caterpillar's high temporal and spatial resolution can resolve these small host halos and since the suite is completed to z = 0, it allows us to connect the high-redshift universe with that of the present day.</p>
   </div>
 </div>
 
 <br>
 
  <div class="card">
-  <div class="card-image" style="background-image: url({{ site.url }}/images/milkyway.png)"></div>
+  <div class="card-image" style="background-image: url({{ site.url }}/images/milkyway.jpg)"></div>
   <div class="card-content">
     <h1>Chemical Evolution Of The Milky Way</h1>
     <p>A wealth of information can be learned from the chemical signature of a galaxy. Building accurate chemical models to explain the plethora of chemical signatures found in our Galaxy remains a leading challenge for the field. The statistically large sample of high-resolution halos enables certain aspects of these signatures to be better understood within the broader context of galaxy formation.</p>
