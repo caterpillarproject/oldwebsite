@@ -78,11 +78,11 @@ The core Caterpillar collaboration is unique in that it consists of a blend of o
 	<div class="card-image-profile" style="background-image: url({{ site.url }}/images/team/alexji.jpg)"></div>
   <div class="card-content-center">
     <h1>Dr. Alex Ji</h1>
-    <div class="subtitle">Hubble Fellow @ Carnegie Mellon University</div>
+    <div class="subtitle">Hubble Fellow @ Carnegie Observatories</div>
     <p>galaxy formation, first stars, dwarf galaxies, stellar astrophysics</p>
     <span class="btn-small btn-info"><a href="mailto:aji@carnegiescience.edu"><i class="fa fa-fw fa-envelope"></i></a> Email</span>
     <span class="btn-small btn-info"><a href="https://twitter.com/alexanderpji"><i class="fa fa-fw fa-twitter"></i></a> Twitter</span>
-    <a href="http://alexji.scripts.mit.edu/home/"><span class="btn-small btn-info">Learn More</span></a>
+    <a href="http://www.alexji.com"><span class="btn-small btn-info">Learn More</span></a>
   </div>
 </div>
 
