@@ -1,6 +1,6 @@
 title:            The Caterpillar Project
 description:      First Stars, Galaxies and Building Blocks of the Milky Way
-disqus_shortname: brendangriffen
+disqus_shortname: wwwcaterpillarprojectwiki
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -27,7 +27,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-61923556-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
